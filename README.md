@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Página de Receita </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto simples para treinar HTML e CSS
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto pagina de receita" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,20 +26,12 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Visualização do Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-<br> 
-
-- [Acesse o projeto finalizado](https://pdrbezerra.github.io/Cartao-De-Visita-Online/)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/8JJHCIqCBwybcg6GkrcUpx/DevLinks-%E2%80%A2-Projeto-Discover--Community-?m=auto&is-community-duplicate=1&fuid=1439025098154051359). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- [Acesse o projeto finalizado](https://pdrbezerra.github.io/ProjetoReceita/)
 
 ## 💻 Licença
 
